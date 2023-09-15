@@ -3,8 +3,10 @@ const ClientsSay = () => {
     return(
         <>
           <h1 className="text-center text-3xl mt-8">OUR TESTIMONIALS</h1>
+          <span className="flex h-1 w-64 mx-auto rounded bg-slate-600 mt-2 "></span>
+
        <section className="text-gray-600 body-font bg-[url('https://d383au3bye3rv1.cloudfront.net/static/images/optimized/sky.jpg')]">
-  <div className="container px-5 py-24 mx-auto">
+  <div className="container px-5 py-12 mx-auto">
     <div className="flex flex-wrap justify-center -m-4">
       
       <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">

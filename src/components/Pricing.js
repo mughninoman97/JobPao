@@ -1,7 +1,6 @@
 const Pricing = () => {
     return (
         <>
-        this is the pricing section use it somewhere
   <section className="text-gray-600 body-font overflow-hidden bg-[#F3F4F6]">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">

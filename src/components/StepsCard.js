@@ -1,7 +1,7 @@
 const StepsCard = (props ) => {
     return(
         <>
-        <div className="p-5 border-2 shadow-md w-60 h-72">
+        <div className="p-5 rounded-lg border-2 shadow-md w-60 h-72 hover:bg-slate-600 hover:text-white hover:cursor-pointer">
         <img className="w-20 h-20 mb-8 ml-16 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"src={props.src} alt="" />
         <h3 className="text-xl">STEP {props.num}: {props.heading} </h3>
       
