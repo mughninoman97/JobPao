@@ -11,6 +11,7 @@ import Error from "./components/Error"
 import About from "./components/NavComp/About"
 import {createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"
 import Companies from "./components/NavComp/Companies"
+import Thank from "./components/Thank"
 
 // const container = React.createElement(
 //     "div",
@@ -85,6 +86,11 @@ const AppRouter = createBrowserRouter([
         {
             path:"/companies",
             element:<Companies/>
+    
+        },
+        {
+            path:"/thank",
+            element:<Thank/>
     
         },
 

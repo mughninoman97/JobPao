@@ -2,7 +2,7 @@ const About=() => {
     return(
    
     <>
-\
+
       <section className="pt-4 lg:pt-[20px] pb-12 lg:pb-[90px] overflow-hidden bg-[#F3F4F6]">
         <div className="container">
           <div className="flex flex-wrap items-center justify-between -mx-4">

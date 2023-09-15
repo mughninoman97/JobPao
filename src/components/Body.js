@@ -7,7 +7,7 @@ import Pricing from "./Pricing"
 import ClientsSay from "./ClientSay"
 const Body =() => {
     return(
-        <>
+        < >
        <Body1/>
        <Steps/>
        <JobCards/>
